@@ -1,1 +1,1 @@
-{"attributes": [{"trait_type": "Number", "value": "9751"}], "description": "Cyan Test Collection with numbers", "image": "https://raw.githubusercontent.com/Qlio/sample-nft/main/images/9751.png", "name": "Cyan Numbers #9751"}
+{"attributes": [{"trait_type": "Number", "value": "9751"}, {"trait_type": "Prime", "value": "False"}], "description": "Numbers collection", "image": "https://raw.githubusercontent.com/Naranbayar/sample-nft-data/master/images/9751.png", "name": "Number #9751"}
