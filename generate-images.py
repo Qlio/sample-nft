@@ -8,7 +8,7 @@ bakc_bg = (0, 0, 0)
 
 font_color = (255, 255, 255)
 
-for i in range(1, 10001):
+for i in range(0, 1):
     font_size = 0
     if i < 1000:
         font_size = 100
@@ -32,4 +32,4 @@ for i in range(1, 10001):
     _, _, w, h = draw.textbbox((0, 0), message, font=font)
     draw.text(((W - w) / 2, (H - h) / 2 + 50), message, font=font, fill=font_color)
 
-    img.save(f'./bakc/{i}.png')
+    img.save(f'./images-bakc/{i}.png')
