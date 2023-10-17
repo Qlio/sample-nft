@@ -1,5 +1,4 @@
 {
-    "name": "Cyan Please Cat",
     "description": "GIF that Zulaa sent when she wants her PR to be reviewed.",
     "image": "https://raw.githubusercontent.com/Qlio/sample-nft/main/images-please-cat/0.gif",
     "attributes": [{ "trait_type": "Sadness Level", "value": "100" }]
