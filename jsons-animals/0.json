@@ -1,0 +1,5 @@
+{
+    "description": "Animals by Cyan",
+    "image": "https://source.unsplash.com/random/500x500/?animal",
+    "attributes": [{ "trait_type": "whatisit", "value": "animal" }]
+}
